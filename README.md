@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kishoth-45
-- 👀 I’m interested in Crating A Bot
+
 - 🌱 I’m currently learning B.sc
 
   [![Logo](https://telegra.ph/file/cc9f4b02b3ede90215aa2.jpg)]
