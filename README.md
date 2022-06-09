@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.sc
 
 
- [Logo](https://telegra.ph/file/cc9f4b02b3ede90215aa2.jpg)
+  <img src="https://telegra.ph/file/cc9f4b02b3ede90215aa2.jpg">
  
   
   
