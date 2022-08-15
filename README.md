@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishoth-45
 
-- 🌱 I’m currently learning B.sc
+- 🌱 I’m completed B.sc
 
 
   <img src="https://telegra.ph/file/12e627baeaf78ac4eff5b.jpg">
