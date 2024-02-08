@@ -2,6 +2,8 @@
 
 - 🌱 I’m completed B.sc
 
+- 🎡 Learning
+
 
   <img src="https://telegra.ph/file/12e627baeaf78ac4eff5b.jpg">
  
