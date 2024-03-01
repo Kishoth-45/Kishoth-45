@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @Kishoth-45
 
 - 🌱 I’m completed B.sc
-
-- 🎡 Learning
-
-
-  <img src="https://telegra.ph/file/12e627baeaf78ac4eff5b.jpg">
  
   <h3 align="center">A passionate MERN Full Stack Developer from India</h3>
 
