@@ -34,10 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishoth-45&" alt="kishoth-45" /></p>
 
   
-### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kishoth-45&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
+
 
 </details>
 
