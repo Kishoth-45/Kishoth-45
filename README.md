@@ -2,13 +2,13 @@
 
 - 🌱 I’m completed B.sc
  
-  <h3 align="center">A passionate MERN Full Stack Developer from India</h3>
+  <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoth-45&label=Profile%20views&color=0e75b6&style=flat" alt="kishoth-45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoth-45" alt="kishoth-45" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Developing course**
 
 - 📫 How to reach me **kishothkumar4545@gmail.com**
 
