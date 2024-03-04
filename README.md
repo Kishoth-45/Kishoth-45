@@ -34,7 +34,7 @@
 
 </details>
 
-- 📫 How to reach me in Telegram [NO.1 KHILADI](https://t.me/khiladiking45)
+- 📫 How to reach me in Telegram [KISHOTH](https://t.me/khiladiking45)
 
 <!---
 Kishoth-45/Kishoth-45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
