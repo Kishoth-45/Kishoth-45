@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kishoth-45
-
-- 🌱 I’m completed B.sc
  
   <h3 align="center">A passionate Full Stack Developer from India</h3>
 
