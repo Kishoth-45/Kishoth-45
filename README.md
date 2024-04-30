@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kishoth-45
+- 👋 Hi, I’m Kishoth
  
   <h3 align="center">A passionate Full Stack Developer from India</h3>
 
